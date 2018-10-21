@@ -4,11 +4,9 @@ SuperLanPlay Client for Mac OSX
 Installation Instructions.
 ==========================
 
-Download SuperLanPlay.app.zip from this repository.
+Download SuperLanPlay.app.zip from this repository and extract it.
 
 Drag it to your Desktop for example or Application Folder, as you want.
-
-Do not extrac it even it is a zip. It just works as it is.
 
 Open a Window Terminal and run this command before starting the SuperLanPlay for first time:
 
