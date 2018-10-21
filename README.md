@@ -10,17 +10,29 @@ Drag it to your Desktop for example or Application Folder, as you want.
 
 Open a Window Terminal and run this command before starting the SuperLanPlay for first time:
 
-<b>brew install libpcap libuv</b>
+
+brew install libpcap libuv
+
+
 
 If you see some errors because BREW is not installed in your Mac or you're getting errors try an installation from scratch writing these commands:
 
-<b>rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup</b>
 
-<b>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install )"</b>
+
+rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup<
+
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install )"
+
+
 
 And then finally run the same command as above:
 
-<b>brew install libpcap libuv</b>
+
+
+brew install libpcap libuv
+
+
 
 You just need to do this once.
 
@@ -28,19 +40,25 @@ Finally we're going to set a permission because usually it's needed.
 
 Again in a terminal type the command:
 
-<b>whoami</b>
+
+whoami
+
 
 The result of that command is your user name. We'll need it in the next command.
 
 Type, now:
 
-<b>cd /dev</b>
 
-<b> sudo chown your_username_here:admin bp*</b>
+cd /dev
+
+
+sudo chown your_username_here:admin bp*
+
 
 for example if the user is retrogamer the command would be:
 
-<b> sudo shown retrogamer:admin bp* </b>
+
+sudo shown retrogamer:admin bp*
 
 Afterthat you're ready to launch SuperLanPlay.
 
