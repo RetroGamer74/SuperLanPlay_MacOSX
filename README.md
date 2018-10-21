@@ -24,6 +24,24 @@ And then finally run the same command as above:
 
 You just need to do this once.
 
+Finally we're going to set a permission because usually it's needed.
+
+Again in a terminal type the command:
+
+<b>whoami</b>
+
+The result of that command is your user name. We'll need it in the next command.
+
+Type, now:
+
+<b>cd /dev</b>
+
+<b> sudo chown your_username_here:admin bp*</b>
+
+for example if the user is retrogamer the command would be:
+
+<b> sudo shown retrogamer:admin bp* </b>
+
 Afterthat you're ready to launch SuperLanPlay.
 
 Enjoy!!!
