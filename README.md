@@ -27,3 +27,5 @@ You just need to do this once.
 Afterthat you're ready to launch SuperLanPlay.
 
 Enjoy!!!
+
+Video Help: https://youtu.be/yv3aX0WXsbg
