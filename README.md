@@ -56,7 +56,7 @@ sudo chown your_username_here:admin bp*
 for example if the user is retrogamer the command would be:
 
 ```
-sudo shown retrogamer:admin bp*
+sudo chown retrogamer:admin bp*
 ```
 
 Afterthat you're ready to launch SuperLanPlay.
