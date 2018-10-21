@@ -12,17 +12,17 @@ Do not extrac it even it is a zip. It just works as it is.
 
 Open a Window Terminal and run this command before starting the SuperLanPlay for first time:
 
-brew install libpcap libuv
+<b>brew install libpcap libuv</b>
 
 If you see some errors because BREW is not installed in your Mac or you're getting errors try an installation from scratch writing these commands:
 
-rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
+<b>rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup</b>
 
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install )"
+<b>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install )"</b>
 
 And then finally run the same command as above:
 
-brew install libpcap libuv
+<b>brew install libpcap libuv</b>
 
 You just need to do this once.
 
