@@ -59,7 +59,17 @@ for example if the user is retrogamer the command would be:
 sudo chown retrogamer:admin bp*
 ```
 
-Afterthat you're ready to launch SuperLanPlay.
+Afterthat you're ready.
+
+Remember the right procedure consist of three steps.
+
+1. Launch browser and go to http://lanboard.retrogamer.tech. Get access until you see the page saying you can CONNECT.
+
+2. Launch SuperLanPlay App and click CONNECT.
+
+3. Finally connect the WiFi network in your Switch with the settings shown in the Settings page of the lanboard.
+
+Repeat these steps each day you want to play because the Discord cookie expires from time to time.
 
 Enjoy!!!
 
