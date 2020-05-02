@@ -2,6 +2,8 @@
 
 Get SuperLanPlay Client for Mac OSX from releases page and follow installation instructions.
 
+![SuperLanClient_Mac_OSX](macosclient.jpg?raw=true "Title")
+
 Installation Instructions.
 ==========================
 
