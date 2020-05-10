@@ -7,7 +7,7 @@ Get SuperLanPlay Client for Mac OSX from releases page and follow installation i
 Installation Instructions.
 ==========================
 
-Download SuperLanPlay app from [releases](releases) and extract it.
+Download SuperLanPlay app from [releases](https://github.com/RetroGamer74/SuperLanPlay_MacOSX/releases) and extract it.
 
 Drag it to your Desktop for example or Application Folder, as you want.
 
